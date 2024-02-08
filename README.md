@@ -1,4 +1,4 @@
-### What is this?
+### APP TASK
 A messaging app in **Django** that can be used to respond to incoming questions sent by customers.
 
 ### How to get Started?
